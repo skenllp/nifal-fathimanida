@@ -1,5 +1,5 @@
 /* ============================================================
-   NIFAL KP & FATHIMA NIDA — WEDDING INVITATION
+   NIFAL & FATHIMA — WEDDING INVITATION
    Vanilla JS — gate intro, countdown, scroll reveals
    ============================================================ */
 (function () {
